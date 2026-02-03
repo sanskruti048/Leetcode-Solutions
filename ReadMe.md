@@ -22,7 +22,9 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 - Fibonacci Number (#509)
 - Shuffle the Array (#1470)
 - Sorted & Rotated Array (#1572)
+- Merge Strings Alternately (#1768)
 - Concatenation of Array (#1929)
+
 
 ---
 
