@@ -4,7 +4,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 
 ## LeetCode Profile
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" />](https://leetcode.com/u/1QYHsAnUq6/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" />](https://leetcode.com/u/Sanskruti-Sugandhi/)
 
 
 ---
