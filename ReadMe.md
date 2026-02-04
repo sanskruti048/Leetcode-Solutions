@@ -16,6 +16,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 - Pow (x,n) (#50)
 - Valid Palindrome (#125)
 - Rotate Array (#189)
+- Contains Duplicate (#217)
 - Missing Number (#268)
 - Move Zeroes (#283)
 - Max Consecutive Ones (#485)
