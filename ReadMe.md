@@ -12,6 +12,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 ## Solved Problems
 
 - Two Sum (#1)
+- Palindrome Number (#9)
 - Remove Duplicates (#26)
 - Pow (x,n) (#50)
 - Valid Palindrome (#125)
