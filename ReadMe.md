@@ -20,6 +20,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 - Valid Palindrome (#125)
 - Rotate Array (#189)
 - Contains Duplicate (#217)
+- Valid Anagram (#242)
 - Missing Number (#268)
 - Move Zeroes (#283)
 - Find the Duplicate Number (#287)
