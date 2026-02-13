@@ -12,6 +12,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 ## Solved Problems
 
 - Two Sum (#1)
+- Longest Substring Without Repeating Characters (#3)
 - Palindrome Number (#9)
 - Roman to Integer (#13)
 - Remove Duplicates (#26)
