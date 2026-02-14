@@ -25,6 +25,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 - Missing Number (#268)
 - Move Zeroes (#283)
 - Find the Duplicate Number (#287)
+- Reverse String (#344)
 - Max Consecutive Ones (#485)
 - Fibonacci Number (#509)
 - Shuffle the Array (#1470)
