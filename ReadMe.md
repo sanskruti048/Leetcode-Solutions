@@ -18,6 +18,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 - Remove Duplicates (#26)
 - Pow (x,n) (#50)
 - Valid Palindrome (#125)
+- Two Sum II - Input Array Is Sorted (#167)
 - Rotate Array (#189)
 - Contains Duplicate (#217)
 - Valid Anagram (#242)
