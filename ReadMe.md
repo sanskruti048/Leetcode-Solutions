@@ -35,6 +35,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 - Sorted & Rotated Array (#1572)
 - Merge Strings Alternately (#1768)
 - Concatenation of Array (#1929)
+- Maximum Sum of Distinct Subarrays With Length K (#2461)
 
 
 ---
