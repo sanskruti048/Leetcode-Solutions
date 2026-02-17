@@ -31,6 +31,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 - Max Consecutive Ones (#485)
 - Fibonacci Number (#509)
 - Squares of a Sorted Array (#977)
+- Maximum Number of Vowels in a Substring of Given Length (#1456)
 - Shuffle the Array (#1470)
 - Sorted & Rotated Array (#1572)
 - Merge Strings Alternately (#1768)
