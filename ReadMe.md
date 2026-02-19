@@ -29,6 +29,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 - Find the Duplicate Number (#287)
 - Longest Substring with At Most K Distinct Characters (#340)
 - Reverse String (#344)
+- Longest Repeating Character Replacement (#424)
 - Max Consecutive Ones (#485)
 - Fibonacci Number (#509)
 - Squares of a Sorted Array (#977)
