@@ -25,6 +25,7 @@ Welcome to my LeetCode solutions repository! Here you'll find my solutions to va
 - Two Sum II - Input Array Is Sorted (#167)
 - Rotate Array (#189)
 - Contains Duplicate (#217)
+- Power of Two (#231)
 - Valid Anagram (#242)
 - Missing Number (#268)
 - Move Zeroes (#283)
